@@ -1,3 +1,6 @@
 .offset-block {
   margin: 0 auto 92px;
 }
+.offset-block:first-of-type {
+  margin: 0 auto 56px;
+}
