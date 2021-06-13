@@ -6,4 +6,9 @@
   line-height: 28px;
   margin-left: 18px;
   margin-bottom: 2px;
+  transition: .6s;
+}
+
+.header__lang-link:hover {
+  opacity: .6;
 }

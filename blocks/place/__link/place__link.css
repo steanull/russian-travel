@@ -3,6 +3,12 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
-  text-decoration-line: underline;
+  text-decoration: none;
   color: #FFFFFF;
+  transition: .6s;
+  border-bottom: 1px #ffffff solid;
+}
+
+.place__link:hover {
+  opacity: .8;
 }

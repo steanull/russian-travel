@@ -1,0 +1,16 @@
+.cover__link {
+  background: rgba(42, 44, 47, 0.3);
+  width: 1184px;
+  height: 740px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: 560px;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: .6s;
+}
+
+.cover__link:hover {
+  background: rgba(42, 44, 47, 0.8);
+}
