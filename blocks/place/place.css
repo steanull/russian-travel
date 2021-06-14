@@ -1,8 +1,15 @@
 .place {
   display: grid;
-  grid-template-columns: 460px 484px;
+  grid-template-columns: minmax(40%, 460px) minmax(40%, 484px);
   grid-template-rows: 1fr 460px;
   grid-auto-rows: 1fr;
   gap: 48px 40px;
+}
 
+@media screen and (max-width: 1023px) {
+  .place {
+    grid-template-columns: minmax(40%, 440px) minmax(40%, 456px);
+    grid-template-rows: 1fr 440px;
+    gap: 48px 32px;
+  }
 }
