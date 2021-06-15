@@ -7,20 +7,20 @@
 @media screen and (max-width: 1279px) {
   .page__cover {
     margin: 0 auto 92px -48px;
-    width: calc(100vw - 19px);
+    width: 100vw;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page__cover {
     margin: 0 auto 92px -24px;
-    width: calc(100vw - 19px);
+    width: 100vw;
   }
 }
 
 @media screen and (max-width: 767px) {
   .page__cover {
     margin: 0 auto 92px -16px;
-    width: calc(100vw - 19px);
+    width: 100vw;
   }
 }
