@@ -1,6 +1,12 @@
 .footer__item {
   color: #FFFFFF;
   list-style: none;
-  margin:0 19px 0 0;
-  padding:0;
+  margin: 0 19px 0 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__item {
+    margin: 0 0 32px;
+  }
 }
