@@ -6,9 +6,15 @@
   font-size: 18px;
   line-height: 22px;
   max-width: 360px;
-  margin: 32px auto;
+  margin: 32px auto 0;
   z-index: 1000;
 
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__subtitle {
+    margin:36px auto 0;
+  }
 }
 
 @media screen and (max-width: 767px) {

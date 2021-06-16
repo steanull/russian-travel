@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 1279px) {
   .page__places {
-    margin: 12px auto 92px;
+    margin: 12px 48px 92px;
   }
 }
 
@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 767px) {
   .page__places {
-    margin: 12px 0 92px;
+    margin: 12px 0 65px;
   }
 }

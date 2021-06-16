@@ -8,16 +8,12 @@
 
 @media screen and (max-width: 1279px) {
   .place {
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows:  minmax(min-content, max-content) minmax(min-content, max-content);
     gap: 48px 32px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .place {
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: minmax(min-content, max-content) minmax(min-content, max-content);
     gap: 48px 28px;
   }
 }
@@ -26,6 +22,6 @@
   .place {
     grid-template-columns: 1fr ;
     grid-template-rows: minmax(min-content, max-content) minmax(min-content, max-content) minmax(min-content, max-content) minmax(min-content, max-content);
-    gap: 48px 28px;
+    gap: 32px 28px;
   }
 }
