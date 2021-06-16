@@ -4,6 +4,7 @@
 @import url(../blocks/page/__footer/page__foter.css);
 @import url(../blocks/page/__places/page__places.css);
 @import url(../blocks/page/__cover/page__cover.css);
+@import url(../blocks/page/__lead/page__lead.css);
 @import url(../blocks/offset-block/offset-block.css);
 @import url(../blocks/page/_offset/page_offset.css);
 @import url(../blocks/header/header.css);

@@ -6,21 +6,21 @@
 
 @media screen and (max-width: 1279px) {
   .page__cover {
-    margin: 0 auto 92px -48px;
-    width: 100vw;
+    margin: 0 auto 92px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page__cover {
-    margin: 0 auto 92px -24px;
-    width: 100vw;
+    margin: 0 auto 88px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 767px) {
   .page__cover {
-    margin: 0 auto 92px -16px;
-    width: 100vw;
+    margin: 0 auto 64px;
+    width: 100%;
   }
 }
