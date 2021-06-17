@@ -8,7 +8,7 @@
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__intro/page__intro.css);
 @import url(../blocks/page/__photo-grid/page__photo-grid.css);
-@import url(../blocks/page/_offset_large/page_offset_large.css);
+@import url(../blocks/page/_offset/page_offset_large.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__list/header__list.css);
