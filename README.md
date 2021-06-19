@@ -1,20 +1,14 @@
 # Проект: Путешествие по России
-
-### Обзор
-* Интро
-* Github-pages
-* Используемые технологии
-
-**Интро**
-
 Идея проекта - рассказать о местах, которые стоит посетить, путешествуя по России. Проект создан в рамках курса - Yandex.Practicum. 
 
-**Github-pages**
-
-* [Ссылка на github-pages](https://steanull.github.io/russian-travel/)
+![Preview](images/preview.png)
 
 **Используемые технологии**
 * Flexbox
 * Grid
 * Медиазапросы
 * БЭМ
+
+**Ссылка на GitHub Pages**
+
+[steanull.github.io/russian-travel/](https://steanull.github.io/russian-travel/)
